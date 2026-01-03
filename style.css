@@ -1,0 +1,13 @@
+:root {
+    --primary:  #5E3BEE;
+    --secondary: #0F1221;
+
+}
+.button-purple {
+    color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
+.links {
+    color: var(--secondary);
+}
