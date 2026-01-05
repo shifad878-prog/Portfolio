@@ -11,3 +11,27 @@
 .links {
     color: var(--secondary);
 }
+.head-purple {
+    color: var(--primary);
+}
+.text-purple {
+    color: var(--primary);
+}
+.text-blue {
+    color: var(--secondary);
+}
+.bg-color {
+    background-color:  #F5FCFF;
+}
+.head-blue {
+    color: var(--secondary) !important;
+}
+.background {
+    background-color: #FFFFFF;
+    width: 5vw;
+    height: 10vh;
+    text-align: center;
+}
+.button {
+    background-color: var(--primary);
+}
