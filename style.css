@@ -22,16 +22,44 @@
 }
 .bg-color {
     background-color:  #F5FCFF;
+    height: 50vh;
 }
 .head-blue {
     color: var(--secondary) !important;
 }
 .background {
     background-color: #FFFFFF;
-    width: 5vw;
-    height: 10vh;
+    width: 4vw;
+    height: 8vh;
     text-align: center;
 }
 .button {
     background-color: var(--primary);
+}
+.about-blue {
+    color: var(--secondary);
+}
+.width {
+    /* border: 1px solid red; */
+    width: 500%;
+    padding: 15px;
+}
+.text-blue {
+    color: var(--primary);
+}
+.text-color {
+    color: var(--secondary);
+}
+.icon {
+border: 1px solid red;
+margin-left: 1000px;
+}
+.btn-color {
+    background-color: var(--primary);
+}
+.color {
+    color:  #006B6A;
+}
+.border {
+    border: 1px solid #006B6A;
 }
