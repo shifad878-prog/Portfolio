@@ -89,3 +89,6 @@ up-ward {
 .border-circle {
     /* border-radius: 50%; */
 }
+.box-height {
+    height: 40vh;
+}
