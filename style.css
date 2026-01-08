@@ -22,7 +22,6 @@
 }
 .bg-color {
     background-color:  #F5FCFF;
-    height: 50vh;
 }
 .head-blue {
     color: var(--secondary) !important;
@@ -62,4 +61,31 @@ margin-left: 1000px;
 }
 .border {
     border: 1px solid #006B6A;
+}
+.width {
+    width: 23%;
+}
+.height {
+    height: 40vh;
+}
+.widh {
+    width: 30%;
+}
+.center {
+    width: 30%;
+}
+.img-width {
+    /* border: 1px solid red; */
+    width: 100%;
+}
+up-ward {
+    height: 10vh;
+}
+.line {
+    color: var(--primary);
+    width: 50%;
+    border: 1px solid var(--primary);
+}
+.border-circle {
+    /* border-radius: 50%; */
 }
