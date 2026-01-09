@@ -60,7 +60,7 @@ margin-left: 1000px;
     color:  #006B6A;
 }
 .border {
-    border: 1px solid #006B6A;
+    border: 2px solid #045a59;
 }
 .width {
     width: 23%;
@@ -90,5 +90,5 @@ up-ward {
     /* border-radius: 50%; */
 }
 .box-height {
-    height: 40vh;
+    height: 30vh;
 }
