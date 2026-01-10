@@ -1,6 +1,7 @@
 :root {
     --primary:  #5E3BEE;
     --secondary: #0F1221;
+    --tertiary: #f5fcff;
 
 }
 .button-purple {
@@ -66,7 +67,7 @@ margin-left: 1000px;
     width: 23%;
 }
 .height {
-    height: 40vh;
+    height: 50vh;
 }
 .widh {
     width: 30%;
@@ -75,9 +76,10 @@ margin-left: 1000px;
     width: 30%;
 }
 .img-width {
-    /* border: 1px solid red; */
+    border: 1px solid red;
     width: 100%;
 }
+
 up-ward {
     height: 10vh;
 }
@@ -90,5 +92,20 @@ up-ward {
     /* border-radius: 50%; */
 }
 .box-height {
-    height: 30vh;
+    height: 40vh;
+}
+.border {
+    color: var(--primary);
+}
+.light-blue {
+    background-color: var(--tertiary);
+}
+.btn-color {
+    background-color: var(--primary);
+}
+.blue {
+    color: var(--primary);
+}
+.navy-blue {
+    color: var(--secondary);
 }
