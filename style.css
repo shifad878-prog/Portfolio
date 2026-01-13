@@ -80,9 +80,6 @@ margin-left: 1000px;
     width: 100%;
 }
 
-up-ward {
-    height: 10vh;
-}
 .line {
     color: var(--primary);
     width: 50%;
@@ -90,9 +87,6 @@ up-ward {
 }
 .border-circle {
     /* border-radius: 50%; */
-}
-.box-height {
-    height: 40vh;
 }
 .border {
     color: var(--primary);
@@ -108,4 +102,21 @@ up-ward {
 }
 .navy-blue {
     color: var(--secondary);
+}
+.border-color {
+    border: 1px solid var(--primary);
+}
+.margin {
+    margin-left: 60px;
+}
+.form-control.new:focus,
+.form-select.new:focus,
+textarea.form-control.new:focus{
+    background-color: transparent;
+    border: 1px solid var(--primary);
+    outline: 0;
+    box-shadow: 1px 1px 10px var(--primary);
+}
+.border-color {
+    border: 1px solid #006B6A;
 }
